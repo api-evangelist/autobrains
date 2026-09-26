@@ -19,5 +19,9 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: VulnerabilityDisclosure
+  url: security/autobrains-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/autobrains-domain-security.yml
 - type: Website
   url: https://www.hiive.com/securities/autobrains-stock
